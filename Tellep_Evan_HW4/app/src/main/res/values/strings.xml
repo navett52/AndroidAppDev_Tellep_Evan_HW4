@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Tellep_Evan_HW4</string>
+    <string name="name_placeholder">Name</string>
+    <string name="email_placeholder">Email</string>
+    <string name="password_placeholder">Password</string>
+    <string name="save_button_text">Save</string>
+    <string name="retrieve_button_text">Retrieve</string>
+    <string name="clear_button_text">Clear</string>
+</resources>
